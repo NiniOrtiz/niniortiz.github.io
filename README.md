@@ -24,40 +24,18 @@ From bacterial biofilms to human communities. When many individuals are focused 
 
 ## How can **you** help?
 Contact me! Or you can check the future repos I will be uploading to my github.
-** Here I will list some ideas I believe we need to discuss and develop in order to stablish a DIY-Bioelectricity grassroots movement:**
+_Here I will list some ideas I believe we need to discuss and develop in order to stablish a DIY-Bioelectricity grassroots movement:_
 - How can we guarantee reproducible research?
-- What do wee need to acquire animal models and approve international standards and laws that regulate their use?
-- Depending on the animal model, What programs can we implement or create to expand some areas of bioelectricity-related research ? 
+-What laboratory equipment and reagents we will need to build a DIY-Biolectricity lab?
+- Under what guidelines, international laws and space-restrictions we will operate?
+- What do wee need in order to acquire animal models in synchrony with international laws and standards that regulate their use?
+- Depending on the animal model, What software  we  can implement or create to expand some areas of bioelectricity-related research? 
+
 
 
 
 ## About the workshop I gave about the  prediction of RNA structures in Datostada
 ![datostada](datostada.jpeg)
 
-```markdown
-Syntax highlighted code block
-
-# How can we create reproducible research?
-## How can we use animal models approving international standards and laws that regulate their use?
-### What new code can we create to expand some areas of bioelectricity-related research ? 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NiniOrtiz/niniortiz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
+##Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

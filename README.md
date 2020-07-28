@@ -22,8 +22,14 @@ To understand the rules and coupling mechanisms between bioelectrical patterns,c
 ## How DIY-Bioelectricity could help us achieve this goal?
 From bacterial biofilms to human communities. When many individuals are focused in a goal it is not only more easy to achieve it, we can fullfil it within a shorter period of time. Nevertheless, at the time there is no grass-roots movement in the DIY-Bio  or Biochacking community that wants to tackle this challenge. For this reason I want to start such a movement, even if there are many challenges ahead I believe it is not impossible with enough determination and resolve .
 
-## How can YOU help?
-Contact me! You can check my(future) repos I will be uploading  with info on Morphogenesis, regeneration, guides to use software that can predict bioelectrical patterns, easy Jupyter noteworks explaining state of the art computational models of recent bioelectricity-related discoveries. We can form a team and start planning(plotting.. ). There are many areas we need to research in order to make this grassroots movement a reality, in the next paragraphs I will enlists some ideas but you can also help learning and sharing how to use BETSE and other software used at the main universities currently researching bioelectricity.
+## How can **you** help?
+Contact me! Or you can check the future repos I will be uploading to my github.
+** Here I will list some ideas I believe we need to discuss and develop in order to stablish a DIY-Bioelectricity grassroots movement:**
+- How can we guarantee reproducible research?
+- What do wee need to acquire animal models and approve international standards and laws that regulate their use?
+- Depending on the animal model, What programs can we implement or create to expand some areas of bioelectricity-related research ? 
+
+
 
 ## About the workshop I gave about the  prediction of RNA structures in Datostada
 ![datostada](datostada.jpeg)

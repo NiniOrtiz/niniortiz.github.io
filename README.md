@@ -8,9 +8,9 @@ Hello! I am Nini Ortiz Vales. I am an independent Computational Biologist. I lov
  I was born and raised in Mérida, Yucatán México. I am affiliated with the Virology lab of the CIR-Hideyo Noguchi research center of the Autonomous University of Yucatán and The Youth  Science Association of Mérida Yucatán (AJC) which is a volunteer group that teaches science to  minorities and poverty-stricken communities and makes many science communication events . Within the virology lab I work with computational models of non-Beta DNA structures and their characterization. Within AJC I am in charge of workshops and courses that relate to novel areas of Bioinformatics and Developmental Biology.
  
 ## What organizations do I belong?
-|  <a href="https://github.com/ajcyucatan">![ajc](ajc.png)</a> | ![viro](virologylab.jpeg) | ![datostada](datostada.jpeg) 
-|:-:|:-:|:-:|
-|  AJC | Virology lab at CIR-Hideyo Noguchi  | Datostada  | 
+|  <a href="https://github.com/ajcyucatan">![ajc](ajc.png)</a> | ![viro](virologylab.jpeg) | 
+|:-:|:-:|
+|  AJC | Virology lab at CIR-Hideyo Noguchi  |
     
 
 ## Are you crazy? What do you mean by Bioelectricity?

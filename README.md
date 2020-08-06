@@ -60,7 +60,6 @@ Send me an  e-mail at:  niniortiz99@gmail.com
 ## Visit the Robert O. Becker Lab !
 
  <a href="https://niniortiz.github.io/robert.o.becker.lab/">
-         <img alt="scale-free.jpg" src="scale-free.jpg"
+         <img alt="scale-free.jpeg" src="scale-free.jpeg"
          width=150" height="70">
- https://niniortiz.github.io/robert.o.becker.lab/
 

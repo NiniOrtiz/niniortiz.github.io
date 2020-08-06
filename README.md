@@ -53,24 +53,20 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 
  <a href="https://niniortiz.github.io/robert.o.becker.lab/">
          <img alt="scale-free.jpeg" src="scale-free.jpeg"
-         width=600" height="500">
+         width=400" height="400">
 
 ## Contact
 Send me an  e-mail at:  niniortiz99@gmail.com
 
 
 ## About the workshop I gave about the  prediction of RNA structures at Datostada
-</html>
  <a href="https://datostada.mx/">
          <img src="datostada.jpeg" alt="datostada.jpeg"
-         width=600" height="500">
-                                </a>
-   </body>
-</html>
+         width=600" height="600">
 
-<br />
- Within this workshop I taught students about the importance of the secondary structure of RNA to many cellular functions and the relationship of the structure of the RNA and its function. I also used some code in a jupyter notebook format to introduce my students to how one can "predict" regions of RNA that could have more or less stability and why a stable RNA structure is important to viral genomes.
- 
-<br />
+- Within this workshop I taught my students about the importance of the secondary structure of the RNA molecule to many cellular functions and why perturbing the stability of the genome of any virus can hinder or enhance the viability of its life cycle. I taught my sudents to measure the stability of the RNA molecule by calculating the minimum folding energy of a sequence using the ViennaRNA package combined with a sliding window analysis. To do this, with a Jupyter Notebook we took a sequence of the sars-cov-2 genome that is escential to its life cycle and calculated the minimum folding energy of a a sliding windows analysis. We also  conducted a second sliding window analysis wherein the baseline parameters were disrupted to calculate how the minimum folding energy  af all the windows changed .
+hat happened to the stability of a coding region of the sars-cov-2  sequence we were studying. We concluded the workshop with the generation of two models one using the baseline
 
-Visit the repository at: https://github.com/NiniOrtiz/Taller-COVID19-datostada
+also used some code in a jupyter notebook format to introduce my students to how one can "predict" regions of RNA that could have more or less stability and why a stable RNA structure is important to viral genomes.
+
+

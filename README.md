@@ -61,5 +61,5 @@ Send me an  e-mail at:  niniortiz99@gmail.com
 
  <a href="https://niniortiz.github.io/robert.o.becker.lab/">
          <img alt="scale-free.jpeg" src="scale-free.jpeg"
-         width=150" height="70">
+         width=600" height="300">
 

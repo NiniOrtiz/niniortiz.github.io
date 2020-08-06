@@ -53,14 +53,16 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 
  <a href="https://niniortiz.github.io/robert.o.becker.lab/">
          <img alt="scale-free.jpeg" src="scale-free.jpeg"
-         width=600" height="600">
+         width=400" height="400">
 
 ## Contact
 Send me an  e-mail at:  niniortiz99@gmail.com
 
 
-## About the workshop I gave about the  prediction of RNA structures in Datostada
- <img src="datostada.jpeg" alt="datostada.jpeg" width="600"/>
+## About the workshop I gave about the  prediction of RNA structures at Datostada
+ <a href="https://datostada.mx/">
+         <iimg src="datostada.jpeg" alt="datostada.jpeg"
+         width=400" height="400">
 
  Within this workshop I taught students about the importance of the secondary structure of RNA to many cellular functions and the relationship of the structure of the RNA and its function. I also used some code in a jupyter notebook format to introduce my students to how one can "predict" regions of RNA that could have more or less stability and why a stable RNA structure is important to viral genomes.
 

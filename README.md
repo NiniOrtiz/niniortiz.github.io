@@ -57,4 +57,10 @@ Send me an  e-mail at:  niniortiz99@gmail.com
  <img src="datostada.jpeg" alt="datostada.jpeg" width="600"/>
 
  Within this workshop I taught students about the importance of the secondary structure of RNA to many cellular functions and the relationship of the structure of the RNA and its function. I also used some code in a jupyter notebook format to introduce my students to how one can "predict" regions of RNA that could have more or less stability and why a stable RNA structure is important to viral genomes.
+## Visit the Robert O. Becker Lab !
+
+ <a href="https://niniortiz.github.io/robert.o.becker.lab/">
+         <img alt="scalefree.jpg" src="scalefree.jpg"
+         width=150" height="70">
+ https://niniortiz.github.io/robert.o.becker.lab/
 

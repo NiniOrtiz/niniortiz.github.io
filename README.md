@@ -46,7 +46,7 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 - What do wee need in order to acquire animal models in synchrony with international laws and standards that regulate their use?
 - Depending on the animal model, What software  we  can implement or create to expand some areas of bioelectricity-related research? 
 
- ## Contact
+## Contact
 send me a mail at: niniortiz99@gmail.com
 
 

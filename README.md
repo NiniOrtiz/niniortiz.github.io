@@ -50,7 +50,7 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 - Depending on the animal model, What software  we  can implement or create to expand some areas of bioelectricity-related research? 
 
 ## Contact
-send me an  e-mail at:  niniortiz99@gmail.com
+Send me an  e-mail at:  niniortiz99@gmail.com
 
 
 ## About the workshop I gave about the  prediction of RNA structures in Datostada

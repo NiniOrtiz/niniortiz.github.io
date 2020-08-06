@@ -32,7 +32,7 @@ I use Bioelectricity to refer to the transmembrane potential of cells. Every cel
 From bacterial biofilms to human communities. When many individuals are focused in a goal it is not only more easy to achieve it, we can fullfil it within a shorter period of time. Nevertheless, at the time there is no grass-roots movement in the DIY-Bio  or Biochacking community that wants to tackle this challenge. For this reason I want to start such a movement, even if there are many challenges ahead I believe it is not impossible with enough determination and resolve .
 
 ## How can **you** help?
-**Join** the **Robert O. Becker lab** or contact me! If you live to far away, you can also help by checking the future repos I will be uploading to my github and spreading the word!.
+**Join the **Robert O. Becker lab** or **contact me!** If you live to far away, you can also help by checking the future repos I will be uploading to my github and spreading the word!.
 _Here I will list some ideas I believe we need to discuss and develop in order to stablish a DIY-Bioelectricity grassroots movement:_
 - How can we guarantee reproducible research?
 -What laboratory equipment and reagents we will need to build a DIY-Biolectricity lab?
@@ -46,6 +46,6 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 ## About the workshop I gave about the  prediction of RNA structures in Datostada
 ![datostada](datostada.jpeg)
 
-- Within this workshop I talked about the importance of the secondary structure of RNA to many cellular functions and the relationship of the structure of the RNA and its function. I also used some code in a jupyter notebook format to introduce my students to how one can "predict" regions of RNA that could have more or less stability and why a stable RNA structure is important to viral genomes.
+ Within this workshop I talked about the importance of the secondary structure of RNA to many cellular functions and the relationship of the structure of the RNA and its function. I also used some code in a jupyter notebook format to introduce my students to how one can "predict" regions of RNA that could have more or less stability and why a stable RNA structure is important to viral genomes.
  ## Contact
 send me a mail at: niniortiz99@gmail.com

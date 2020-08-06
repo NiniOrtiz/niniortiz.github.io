@@ -53,7 +53,7 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 
  <a href="https://niniortiz.github.io/robert.o.becker.lab/">
          <img alt="scale-free.jpeg" src="scale-free.jpeg"
-         width=400" height="400">
+         width=600" height="500">
 
 ## Contact
 Send me an  e-mail at:  niniortiz99@gmail.com
@@ -68,6 +68,6 @@ Send me an  e-mail at:  niniortiz99@gmail.com
    </body>
 </html>
 
-- Within this workshop I taught students about the importance of the secondary structure of RNA to many cellular functions and the relationship of the structure of the RNA and its function. I also used some code in a jupyter notebook format to introduce my students to how one can "predict" regions of RNA that could have more or less stability and why a stable RNA structure is important to viral genomes.
+ Within this workshop I taught students about the importance of the secondary structure of RNA to many cellular functions and the relationship of the structure of the RNA and its function. I also used some code in a jupyter notebook format to introduce my students to how one can "predict" regions of RNA that could have more or less stability and why a stable RNA structure is important to viral genomes.
 
 

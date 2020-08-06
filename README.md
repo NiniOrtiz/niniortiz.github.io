@@ -1,7 +1,7 @@
 ### ***Nini Ortiz Vales***
     Computational Biology & Bioinformatics
     
-  <img src="IMG_20200805_222201(1).jpg" alt="IMG_20200805_222201(1).jpg" width="200"/>
+  <img src="IMG_20200805_222201(1).jpg" alt="IMG_20200805_222201(1).jpg" width="600"/>
 ## Who am I?
 Hello! I am Nini Ortiz Vales. I am an independent Computational Biologist. I love studying  Morphogenesis, Regeneration , Cancer and Aging from the perspective of Cognitive, informational and computational sciences. Not forgetting the Molecular, Biochemical, Epigenetic and gene regulatory networks that are inseparable from the Bioelectric mechanisms that cells employ to sense their environment, compute synchonyzed decisions  that result in the development of an embryo , maintenance of the anatomy of a tissue , regeneration from an injury. And of course, how these control mechanisms break-down as we age.
 

@@ -51,10 +51,9 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 
 ## Visit the Robert O. Becker Lab !
 
- <a href="https://niniortiz.github.io/robert.o.becker.lab/">
-         <img alt="scale-free.jpeg" src="scale-free.jpeg" width="400">
-         
+At:https://niniortiz.github.io/robert.o.becker.lab/"
 
+         
 ## Contact
 Send me an  e-mail at:  niniortiz99@gmail.com
 

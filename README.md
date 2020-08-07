@@ -29,11 +29,11 @@ Animal cells use GAP junctions to facilitate the transport of ions and small RNA
 - Bioelectricity is also theorized to be used by cells as an efficient mechanism to convey,represent, store and process information. Which is why the study of the mechanistic principles and rules that make cells work togheter towards complex goals is in a sense fundamental to understand the cognitive basis of life.  These ideas are not properly my own, it was  inspired by the discoveries made by scientists I admire like Dr. Michael Levin, Dr. Adam Cohen, Dr. Gürol M. Süel, Dr. Alexis Pietak ,  Dr. Stephen M. Fuchs , Dr. Eric P. Hoel , Dr. Benjamin E. Wolfe, Dr. Jessica L.Whited , Dr. Michael B. Elowitz  and  many others.
 
 ## What is my aim?
-- To undersand the role bioelectricity plays in the spatio-temporal representation and processing of information at the cellular membrane of cells, the execution of computational tasks, the integration and fusing multiple inputs at different scales of organization and  the generation of complex responses at the individual or tissue level. 
+:parrot: To undersand the role bioelectricity plays in the spatio-temporal representation and processing of information at the cellular membrane of cells, the execution of computational tasks, the integration and fusing multiple inputs at different scales of organization and  the generation of complex responses at the individual or tissue level. 
 
-- To reveal why spatio-temporal regionalizations of ion distributions that are caused by distinct bioelectric patterns can alter the patterning of a tissue, the regeneration of an organ and the development of an individual. 
+:parrot: To reveal why spatio-temporal regionalizations of ion distributions that are caused by distinct bioelectric patterns can alter the patterning of a tissue, the regeneration of an organ and the development of an individual. 
 
-- To commmunicate to the local and regional scientific community about recent discoverys and dynamical models of Bioelectricity and their relationship with development, regeneration, cancer and aging.
+:parrot: To commmunicate to the local and regional scientific community about recent discoverys and dynamical models of Bioelectricity and their relationship with development, regeneration, cancer and aging.
 
 
 
@@ -60,8 +60,7 @@ Send me an  e-mail at:  niniortiz99@gmail.com
 
 ## About the workshop I gave about the  prediction of RNA structures at Datostada
 
-<img src="datostada.jpeg" alt="datostada.jpeg" width="500"/>
-![https://datostada.mx/](datostada.jpeg)
+![datostada](datostada.jpeg)
 
 
 <br />

@@ -51,7 +51,7 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 
 ## Visit the Robert O. Becker Lab !
 
-At:https://niniortiz.github.io/robert.o.becker.lab/"
+https://niniortiz.github.io/robert.o.becker.lab/"
 
          
 ## Contact

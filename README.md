@@ -28,16 +28,16 @@ Animal cells use GAP junctions to facilitate the transport of ions and small RNA
 
 
 ## Why Bioelectricity interests me?
-:electron: Because,during development and regeneration there are bioelectrical patterns that precede the formation of organs, they dictate the head-tail configuration (polarity) of  nematodes like _D.Japonica_ and are escencial for the correct patterning of the neural tube and creaniofacial features in humans and Xenopus laevis. When  _D.Japonica_  are cut in 2 the regions that will become the head and the tail will have a distinct bioelectric pattern. Bioelectricity seems to be ancient. Since, the last known common ancestor cell (LUCA) was theorized to have had ion channels and the diversification of metazoan life during the cambrian explosion correlates with the diversification of ion and voltage-gated channels as well with the emergence of animals with true brains . 
+- Because,during development and regeneration there are bioelectrical patterns that precede the formation of organs, they dictate the head-tail configuration (polarity) of  nematodes like _D.Japonica_ and are escencial for the correct patterning of the neural tube and creaniofacial features in humans and Xenopus laevis. When  _D.Japonica_  are cut in 2 the regions that will become the head and the tail will have a distinct bioelectric pattern. Bioelectricity seems to be ancient. Since, the last known common ancestor cell (LUCA) was theorized to have had ion channels and the diversification of metazoan life during the cambrian explosion correlates with the diversification of ion and voltage-gated channels as well with the emergence of animals with true brains . 
 
-:electron: Bioelectricity is also theorized to be used by cells as an efficient mechanism to convey,represent, store and process information. Which is why the study of the mechanistic principles and rules that make cells work togheter towards complex goals is in a sense fundamental to understand the cognitive basis of life.  These ideas are not properly my own, it was  inspired by the discoveries made by scientists I admire like Dr. Michael Levin, Dr. Adam Cohen, Dr. Gürol M. Süel, Dr. Alexis Pietak ,  Dr. Stephen M. Fuchs , Dr. Eric P. Hoel , Dr. Benjamin E. Wolfe, Dr. Jessica L.Whited , Dr. Michael B. Elowitz  and  many others.
+-Bioelectricity is also theorized to be used by cells as an efficient mechanism to convey,represent, store and process information. Which is why the study of the mechanistic principles and rules that make cells work togheter towards complex goals is in a sense fundamental to understand the cognitive basis of life.  These ideas are not properly my own, it was  inspired by the discoveries made by scientists I admire like Dr. Michael Levin, Dr. Adam Cohen, Dr. Gürol M. Süel, Dr. Alexis Pietak ,  Dr. Stephen M. Fuchs , Dr. Eric P. Hoel , Dr. Benjamin E. Wolfe, Dr. Jessica L.Whited , Dr. Michael B. Elowitz  and  many others.
 
 ## What is my aim?
-:electron: To undersand the role bioelectricity plays in the spatio-temporal representation and processing of information at the cellular membrane of cells, the execution of computational tasks, the integration and fusing multiple inputs at different scales of organization and  the generation of complex responses at the individual or tissue level. 
+- To undersand the role bioelectricity plays in the spatio-temporal representation and processing of information at the cellular membrane of cells, the execution of computational tasks, the integration and fusing multiple inputs at different scales of organization and  the generation of complex responses at the individual or tissue level. 
 
-:electron: To reveal why spatio-temporal regionalizations of ion distributions that are caused by distinct bioelectric patterns can alter the patterning of a tissue, the regeneration of an organ and the development of an individual. 
+- To reveal why spatio-temporal regionalizations of ion distributions that are caused by distinct bioelectric patterns can alter the patterning of a tissue, the regeneration of an organ and the development of an individual. 
 
-:electron: To commmunicate to the local and regional scientific community about recent discoverys and dynamical models of Bioelectricity and their relationship with development, regeneration, cancer and aging.
+- To commmunicate to the local and regional scientific community about recent discoverys and dynamical models of Bioelectricity and their relationship with development, regeneration, cancer and aging.
 
 
 
@@ -55,7 +55,7 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 
 ## Visit the Robert O. Becker Lab !
 
-:parrot: https://niniortiz.github.io/robert.o.becker.lab/ :parrot:
+https://niniortiz.github.io/robert.o.becker.lab/ 
 
          
 ## Contact

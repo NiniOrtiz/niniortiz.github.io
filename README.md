@@ -60,13 +60,9 @@ Send me an  e-mail at:  niniortiz99@gmail.com
 
 
 ## About the workshop I gave about the  prediction of RNA structures at Datostada
-<html>
-     <body>
-         <a href="https://datostada.mx/">
-             <img src="datostada.jpeg" alt="datostada.jpeg" width="500">
-         </a>
-     </body>
-</html>
+
+<img src="datostada.jpeg" alt="datostada.jpeg" width="500"/>
+
 
 <br />
 

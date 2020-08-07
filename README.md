@@ -52,8 +52,8 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 ## Visit the Robert O. Becker Lab !
 
  <a href="https://niniortiz.github.io/robert.o.becker.lab/">
-         <img alt="scale-free.jpeg" src="scale-free.jpeg"
-         width=500" height="450">
+         <img alt="scale-free.jpeg" src="scale-free.jpeg" width="400">
+         
 
 ## Contact
 Send me an  e-mail at:  niniortiz99@gmail.com
@@ -63,8 +63,7 @@ Send me an  e-mail at:  niniortiz99@gmail.com
 <html>
      <body>
          <a href="https://datostada.mx/">
-             <img src="datostada.jpeg" alt="datostada.jpeg"
-                  width=400" height="350">
+             <img src="datostada.jpeg" alt="datostada.jpeg" width="400">
          </a>
      </body>
 </html>

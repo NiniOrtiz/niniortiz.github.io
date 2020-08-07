@@ -63,7 +63,7 @@ Send me an  e-mail at:  niniortiz99@gmail.com
 <html>
      <body>
          <a href="https://datostada.mx/">
-             <img src="datostada.jpeg" alt="datostada.jpeg" width="400">
+             <img src="datostada.jpeg" alt="datostada.jpeg" width="500">
          </a>
      </body>
 </html>

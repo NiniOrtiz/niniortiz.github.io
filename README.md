@@ -53,7 +53,7 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 
  <a href="https://niniortiz.github.io/robert.o.becker.lab/">
          <img alt="scale-free.jpeg" src="scale-free.jpeg"
-         width=800" height="800">
+         width=500" height="550">
 
 ## Contact
 Send me an  e-mail at:  niniortiz99@gmail.com
@@ -64,7 +64,7 @@ Send me an  e-mail at:  niniortiz99@gmail.com
      <body>
          <a href="https://datostada.mx/">
              <img src="datostada.jpeg" alt="datostada.jpeg"
-                  width=600" height="500">
+                  width=400" height="450">
          </a>
      </body>
 </html>

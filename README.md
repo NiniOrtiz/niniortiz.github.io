@@ -60,9 +60,15 @@ Send me an  e-mail at:  niniortiz99@gmail.com
 
 
 ## About the workshop I gave about the  prediction of RNA structures at Datostada
- <a href="https://datostada.mx/">
-         <img src="datostada.jpeg" alt="datostada.jpeg"
-         width=600" height="600">
+<html>
+     <body>
+         <a href="https://datostada.mx/">
+             <img src="datostada.jpeg" alt="datostada.jpeg"
+                  width=600" height="600">
+         </a>
+     </body>
+</html>
+ 
 
 Within this workshop I taught my students about the importance of the secondary structure of the RNA molecule to many cellular functions and why perturbing the stability of the genome of any virus can hinder or enhance the viability of its life cycle. I taught my sudents to measure the stability of the RNA molecule by calculating the minimum folding energy of a sequence using RNAfold that can be found within the ViennaRNA package combined with a sliding window analysis. To do this, with a Jupyter Notebook we took the orf1ab domain  of the sars-cov-2 genome that contains the sequence of the Rdrp protein  that is escential for the life cycle of the novel sars-cov-2 and  conducted a sliding window analysisis. We calculated the minimum folding energy of 100 nucleotide (nt) windows advancing by 1 nt acoss the first 1000 nt of the orf1ab domain using the default parameters of RNAfold. After that, we  conducted a second sliding window analysis wherein the baseline parameters were disrupted to calculate how the minimum folding energy changed through all windows . Since, the minimum folding energy of all windows became more negative it was highly plausible that the sequence for the first 1000 nt of the orf1ab domain became more unstable. We concluded that altering the baseline conditions and  using chemical agents we can alter the stability of the RNA molecule.
 

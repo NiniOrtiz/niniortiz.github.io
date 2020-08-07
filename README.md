@@ -53,7 +53,7 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 
 ## Visit the Robert O. Becker Lab !
 
-https://niniortiz.github.io/robert.o.becker.lab/"
+:parrot: https://niniortiz.github.io/robert.o.becker.lab/ :parrot:
 
          
 ## Contact

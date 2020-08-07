@@ -59,7 +59,7 @@ https://niniortiz.github.io/robert.o.becker.lab/
 
          
 ## Contact
-Send me an  e-mail at:  niniortiz99@gmail.com
+Send me an e-mail at:  niniortiz99@gmail.com
 
 
 ## About the workshop I gave about the  prediction of RNA structures at Datostada

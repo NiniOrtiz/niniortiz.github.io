@@ -53,7 +53,7 @@ _Here I will list some ideas I believe we need to discuss and develop in order t
 
  <a href="https://niniortiz.github.io/robert.o.becker.lab/">
          <img alt="scale-free.jpeg" src="scale-free.jpeg"
-         width=500" height="550">
+         width=500" height="450">
 
 ## Contact
 Send me an  e-mail at:  niniortiz99@gmail.com
